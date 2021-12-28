@@ -1,5 +1,5 @@
 # cfbelite
-CFB Elite Mod for NCAA Football, currently NCAA Football 05 for gamecube
+CFB Elite Mod for NCAA Football, currently NCAA Football 05 for Gamecube / Dolphin
 
 NOTES:
 
